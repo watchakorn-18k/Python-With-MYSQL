@@ -1,11 +1,12 @@
 import mysql.connector #รับโมดูลเข้ามา
 
-my_db = mysql.connector.connect(
+my_db = mysql.connector.connect( #คำสั่งเชื่อมต่อฐานข้อมูล
     host="localhost",   #ที่อยู่ฐานข้อมูล
     user="test_py",     #user หือ บัญชีที่จะใช้เชื่อมต่อ
     password="test_py123", #รหัสผ่านของบัญชี
     database="python_sql" #ชื่อฐานข้อมูล
-) #เชื่อมต่อกันฐานข้อมูล
+) #
+
 my_cursor = my_db.cursor() # .cursor() ทำหน้าที่ในการชี้ลิงค์ตำแหน่งต่างๆไปยังฐานข้อมูลและใช้ในการประมวลผลนั่นเอง
 
 def insert_data(id,fname,lname,age): #สร้างฟังค์ชั่นเพื่อทำการเพิ่มข้อมูลลงไปใน ฐานข้อมูล โดยมี arg อาร์กิวเมนคือ id,fname,lname,age
