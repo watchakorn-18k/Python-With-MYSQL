@@ -1,4 +1,6 @@
-# python_sql
+# Python with Mysql
+สามารถนำไปลองใช้ได้โดยใช้คำสั่ง
 ```
 git clone https://github.com/watchakorn-18k/python_sql.git
 ```
+หรือจะดาวน์โหลดโดยตรงไปลเยก็ได้
