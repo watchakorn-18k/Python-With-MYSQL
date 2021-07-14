@@ -1,4 +1,4 @@
-# Python with Mysql
+# 🗂️ Python with Mysql
 สามารถนำไปลองใช้ได้โดยใช้คำสั่ง
 ```
 git clone https://github.com/watchakorn-18k/python_sql.git
