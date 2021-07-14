@@ -3,4 +3,4 @@
 ```
 git clone https://github.com/watchakorn-18k/python_sql.git
 ```
-หรือจะดาวน์โหลดโดยตรงไปลเยก็ได้
+หรือจะดาวน์โหลดโดยตรงไปเลยก็ได้
