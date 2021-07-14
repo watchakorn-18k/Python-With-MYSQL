@@ -1,2 +1,4 @@
 # python_sql
-หากผิดพลาดประการใด สามารถ pull requests มาแก้ไขได้เลยครับ
+'''
+git clone https://github.com/watchakorn-18k/python_sql.git
+'''
